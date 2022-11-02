@@ -1,0 +1,15 @@
+/Users/yuliyayahshigulova/Desktop/Example/Example01_seminar/bin/Debug/net6.0/Example01_seminar
+/Users/yuliyayahshigulova/Desktop/Example/Example01_seminar/bin/Debug/net6.0/Example01_seminar.deps.json
+/Users/yuliyayahshigulova/Desktop/Example/Example01_seminar/bin/Debug/net6.0/Example01_seminar.runtimeconfig.json
+/Users/yuliyayahshigulova/Desktop/Example/Example01_seminar/bin/Debug/net6.0/Example01_seminar.dll
+/Users/yuliyayahshigulova/Desktop/Example/Example01_seminar/bin/Debug/net6.0/Example01_seminar.pdb
+/Users/yuliyayahshigulova/Desktop/Example/Example01_seminar/obj/Debug/net6.0/Example01_seminar.csproj.AssemblyReference.cache
+/Users/yuliyayahshigulova/Desktop/Example/Example01_seminar/obj/Debug/net6.0/Example01_seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliyayahshigulova/Desktop/Example/Example01_seminar/obj/Debug/net6.0/Example01_seminar.AssemblyInfoInputs.cache
+/Users/yuliyayahshigulova/Desktop/Example/Example01_seminar/obj/Debug/net6.0/Example01_seminar.AssemblyInfo.cs
+/Users/yuliyayahshigulova/Desktop/Example/Example01_seminar/obj/Debug/net6.0/Example01_seminar.csproj.CoreCompileInputs.cache
+/Users/yuliyayahshigulova/Desktop/Example/Example01_seminar/obj/Debug/net6.0/Example01_seminar.dll
+/Users/yuliyayahshigulova/Desktop/Example/Example01_seminar/obj/Debug/net6.0/refint/Example01_seminar.dll
+/Users/yuliyayahshigulova/Desktop/Example/Example01_seminar/obj/Debug/net6.0/Example01_seminar.pdb
+/Users/yuliyayahshigulova/Desktop/Example/Example01_seminar/obj/Debug/net6.0/Example01_seminar.genruntimeconfig.cache
+/Users/yuliyayahshigulova/Desktop/Example/Example01_seminar/obj/Debug/net6.0/ref/Example01_seminar.dll
